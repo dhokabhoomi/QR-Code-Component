@@ -39,6 +39,7 @@ This is my solution for the [Frontend Mentor QR Code Component Challenge](https:
 
 ## 🗂️ Folder Structure
 
+```
 /
 ├── index.html
 ├── style.css
@@ -49,7 +50,7 @@ This is my solution for the [Frontend Mentor QR Code Component Challenge](https:
 │ └── ...
 └── README.md
 
-````
+```
 
 ---
 
@@ -66,9 +67,12 @@ This is my solution for the [Frontend Mentor QR Code Component Challenge](https:
 
 1. **Clone the repo**
 
-   ```bash
+   ```
+   bash
    git clone https://github.com/dhokabhoomi/QR-Code-Component.git
-````
+   ```
+
+```
 
 2. **Open `index.html`**
 
@@ -113,3 +117,4 @@ Have suggestions or want to connect? Feel free to reach out!
 **Thanks for checking it out — Happy Coding! 🚀**
 
 ---
+```
