@@ -4,7 +4,7 @@ Got it! Here’s a **clean, rewritten `README.md`** specifically for **your own 
 
 # 📱 Frontend Mentor - QR Code Component Solution
 
-![Design preview](./design/preview.jpg)
+![Design preview](./screenshots/desktop.png)
 
 ## 👋 Welcome!
 
@@ -24,8 +24,7 @@ This is my solution for the [Frontend Mentor QR Code Component Challenge](https:
 
 ## 🚀 Live Demo
 
-👉 [View my live site here](#)
-_(Update this link when deployed!)_
+👉 [View my live site here](https://qr-card-scan-me.netlify.app/)
 
 ---
 
@@ -44,12 +43,13 @@ _(Update this link when deployed!)_
 ├── index.html
 ├── style.css
 ├── images/
-│   └── image-qr-code.png
+│ └── image-qr-code.png
 ├── design/
-│   ├── design-preview.jpg
-│   └── ...
+│ ├── design-preview.jpg
+│ └── ...
 └── README.md
-```
+
+````
 
 ---
 
@@ -67,8 +67,8 @@ _(Update this link when deployed!)_
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/yourusername/qr-code-component.git
-   ```
+   git clone https://github.com/dhokabhoomi/QR-Code-Component.git
+````
 
 2. **Open `index.html`**
 
